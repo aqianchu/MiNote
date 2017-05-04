@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MiNote-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\MiNote-master\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\MiNote-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_4x_info.xml",
+        "source": "D:\\MiNote-master\\app\\src\\main\\res\\xml\\widget_4x_info.xml"
+    },
+    {
+        "merged": "D:\\MiNote-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_2x_info.xml",
+        "source": "D:\\MiNote-master\\app\\src\\main\\res\\xml\\widget_2x_info.xml"
+    },
+    {
+        "merged": "D:\\MiNote-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\MiNote-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]
